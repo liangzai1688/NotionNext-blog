@@ -38,6 +38,14 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！欢迎来到绿软宝库！',
 
+  // 个人资料底部按钮
+  HEO_INFO_CARD_URL1: '/about',
+  HEO_INFO_CARD_ICON1: 'fas fa-user',
+  HEO_INFO_CARD_URL2: 'https://github.com/liangzai1688',
+  HEO_INFO_CARD_ICON2: 'fab fa-github',
+  HEO_INFO_CARD_URL3: 'https://k.hzyuib.cn/dist/index.html?source1=%E5%8F%B7%E5%8D%A1%E5%B9%BF%E5%9C%BA&sourcetype=zhushou&channel=zhushou&showBanner=false&seller_id=1649613#/allpromotion',
+  HEO_INFO_CARD_TEXT3: '精品流量卡',
+    
   // 用户技能图标
   HEO_GROUP_ICONS: [
     {

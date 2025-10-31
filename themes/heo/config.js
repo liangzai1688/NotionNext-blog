@@ -37,12 +37,6 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！欢迎来到绿软宝库！',
-  
-
-  // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: '/about',
-  HEO_INFO_CARD_ICON1: 'fas fa-user',
-
 
   // 用户技能图标
   HEO_GROUP_ICONS: [

@@ -42,8 +42,8 @@ const CONFIG = {
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: '375117371@qq.com',
-  HEO_INFO_CARD_ICON2: 'fab fa-Email',
+  HEO_INFO_CARD_URL2: '',
+  HEO_INFO_CARD_ICON2: 'fab fa-github',
   HEO_INFO_CARD_URL3: 'https://k.hzyuib.cn/dist/index.html?source1=%E5%8F%B7%E5%8D%A1%E5%B9%BF%E5%9C%BA&sourcetype=zhushou&channel=zhushou&showBanner=false&seller_id=1649613#/allpromotion',
   HEO_INFO_CARD_TEXT3: '精品流量卡',
 

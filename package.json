@@ -1,14 +1,14 @@
 {
-  "name": "notion-next",
-  "version": "4.9.2",
-  "homepage": "",
+  "name": "绿软宝库",
+  "version": "",
+  "homepage": "https://llz.qzz.io",
   "license": "MIT",
   "engines": {
     "node": ">=20"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://llz.qzz.io"
   },
   "author": {
     "name": "tangly",

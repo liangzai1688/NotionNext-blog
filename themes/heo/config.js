@@ -25,9 +25,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '安卓软件', url: '/tag/安卓软件' },
-  HEO_HERO_CATEGORY_3: { title: '电脑软件', url: '/tag/电脑软件' },
+  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/category/精品推荐' },
+  HEO_HERO_CATEGORY_2: { title: '安卓软件', url: '/category/安卓软件' },
+  HEO_HERO_CATEGORY_3: { title: '电脑软件', url: '/category/电脑软件' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',

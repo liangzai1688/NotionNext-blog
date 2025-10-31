@@ -19,7 +19,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '免费分享',
   HEO_HERO_TITLE_3: 'llz.qzz.io',
   HEO_HERO_TITLE_4: '最新上线',
-  HEO_HERO_TITLE_5: '官方正规大流量不限速流量卡   包邮领取',
+  HEO_HERO_TITLE_5: '官方正规大流量不限速流量卡 【包邮领取】',
   HEO_HERO_TITLE_LINK: 'https://k.hzyuib.cn/dist/index.html?source1=%E5%8F%B7%E5%8D%A1%E5%B9%BF%E5%9C%BA&sourcetype=zhushou&channel=zhushou&showBanner=false&seller_id=1649613#/allpromotion',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',

@@ -15,8 +15,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '绿色软件',
-  HEO_HERO_TITLE_2: '免费分享',
+  HEO_HERO_TITLE_1: '零成本搞钱社',
+  HEO_HERO_TITLE_2: '只分享没有风险的网赚项目！',
   HEO_HERO_TITLE_3: 'llz.qzz.io',
   HEO_HERO_TITLE_4: '最新上线',
   HEO_HERO_TITLE_5: '官方正规大流量不限速流量卡 【包邮领取】',
@@ -25,9 +25,9 @@ const CONFIG = {
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '电视软件', url: '/category/TV软件' },
-  HEO_HERO_CATEGORY_2: { title: '安卓软件', url: '/category/安卓软件' },
-  HEO_HERO_CATEGORY_3: { title: '电脑软件', url: '/category/电脑软件' },
+  HEO_HERO_CATEGORY_1: { title: '新手项目', url: '/category/新手项目' },
+  HEO_HERO_CATEGORY_2: { title: '热门项目', url: '/category/热门项目' },
+  HEO_HERO_CATEGORY_3: { title: '免费领卡', url: '/category/免费领卡' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
